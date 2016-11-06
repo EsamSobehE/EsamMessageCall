@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182972995629",
+    "firebase_url": "https://messagecall-27a25.firebaseio.com",
+    "project_id": "messagecall-27a25",
+    "storage_bucket": "messagecall-27a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182972995629:android:fcf12595cb6e5527",
+        "android_client_info": {
+          "package_name": "com.esam.esammessagecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182972995629-bslf9i21io1d3cacscp5ucd2bbvla5p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esam.esammessagecall",
+            "certificate_hash": "207C202ECE9FFC5136A38028C1532ACC3AB7EAF8"
+          }
+        },
+        {
+          "client_id": "182972995629-ok9i57oc5vo22f73naeesg07us1ib32r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YH_hHQ2cxD3ImwGB9yp_VjLMk_b2fqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182972995629-ok9i57oc5vo22f73naeesg07us1ib32r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

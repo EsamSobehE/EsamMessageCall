@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EsamMessage&amp;Call</string>
+    <string name="Password">Password</string>
+    <string name="Email" />
+    <string name="email">Email</string>
+    <string name="SignUp">SignUp</string>
+    <string name="SignIn">SignIn</string>
+    <string name="ForGotMyPassword">ForGotMyPassword</string>
+    <string name="FastAdd">FastAdd</string>
+    <string name="Text">Text</string>
+    <string name="FullName">FullName</string>
+    <string name="RePassword">RePassword</string>
+    <string name="Signup">SignUp</string>
+    <string name="AddCall">AddCall</string>
+    <string name="AddMessage">AddMessage</string>
+    <string name="AddMesaage">Addmessage</string>
+    <string name="AddMessage1">AddMessage1</string>
+    <string name="PhoneNumber">PhoneNumber</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Save">Save</string>
+    <string name="Message">Message</string>
+    <string name="LogOut">LogOut</string>
+    <string name="Setting">Setting</string>
+</resources>
